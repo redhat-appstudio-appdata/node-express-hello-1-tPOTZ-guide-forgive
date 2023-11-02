@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/karthik-jk-tenant/node-express-hello-1/node-express-hello-z7y6@sha256:6815dadf01bd9c25c2f8fcc799369d29c364d5b639eb740f2c8259fd887fd06d
+      - image: quay.io/redhat-user-workloads/karthik-jk-tenant/node-express-hello-1/node-express-hello-z7y6@sha256:ae64c55b57ce51544313532f2ecb92d27939e7778829cf28d1d5dd2b47884bcc
         name: my-nodejs
         resources: {}
 status: {}
